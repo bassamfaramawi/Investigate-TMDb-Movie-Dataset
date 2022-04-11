@@ -1,4 +1,12 @@
 ## What's including
+---
+Github: [Investigate TMDB Dataset](https://github.com/bassamfaramawi/Investigate-TMDb-Movie-Dataset)
+
+Kaggle: [Investigate TMDB Dataset](https://www.kaggle.com/code/tiodaronzi3/investigate-tmdb-dataset)
+
+Auther: Bassam Faramawi
+
+---
 **Investigate TMDb Movie Data** is a project for investigating a dataset of movies trying to get some answers that are useful for both production companies and movie aficionados.
 
 ## Dataset
